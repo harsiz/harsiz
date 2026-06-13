@@ -1,6 +1,6 @@
 # hey, i'm harsiz 👋
 
-(yes that's *just* harsiz. as in.. "just harsiz". ok i'll stop, that joke wasn't even good 😭)
+(yes that's *just* harsiz. as in.. "justharsiz". ok i'll stop, that joke wasn't even good 😭)
 
 CS student by day, certified gremlin coder by night 😭 i build random projects whenever an idea hits me at 2am and refuse to let it go until it's done (or i get distracted by something shinier lol)
 
@@ -37,7 +37,7 @@ CS student by day, certified gremlin coder by night 😭 i build random projects
 
 ---
 
-## 📊 stats (the real flex)
+## 📊 stats or sumthn
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsiz&show_icons=true&theme=tokyonight&hide_border=true)
 
