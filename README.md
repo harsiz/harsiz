@@ -1,6 +1,5 @@
 yo wsg
 
---
 
 
 <p align="center">
