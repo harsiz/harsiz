@@ -1,8 +1,9 @@
-yo wsg
+# hi, i'm harsiz
+_(just harsiz you could say)_
+ㅤㅤㅤ
 
+I code whatever, primarily in Go. 
 
+I also play [osu!](https://osu.ppy.sh/users/37707250) quite a bit.
 
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/c73c989a-297b-4dfd-a8b3-24c75c229114/thumbnail" >
-</p>
-
+->ㅤhttps://www.boot.dev/u/justharsiz
